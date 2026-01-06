@@ -18,8 +18,4 @@ jobs:
           ssh_private_key: ${{ secrets.SFTP_SSHKEY }}
           remote_path: .
           local_path: .
-          exclude: |
-            .git
-            .github
-            README.md
-            *.yml
+          rsyncArgs: "--exclude=.git --exclude=.github --exclude=.yml"
