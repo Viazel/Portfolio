@@ -16,3 +16,5 @@ jobs:
           username: ${{ secrets.SFTP_USERNAME }}
           server: ${{ secrets.SFTP_SERVER}}
           ssh_private_key: ${{ secrets.SFTP_SSHKEY }}
+          remotePath: .
+          localPath: .
