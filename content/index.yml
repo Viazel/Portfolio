@@ -1,13 +1,9 @@
 seo:
-  title: "Emma Thompson - UX/UI Designer"
-  description: "Welcome to my portfolio! I'm Emma Thompson, a UX/UI designer and front-end developer based in Boston. I specialize in creating user-centered digital experiences that are both beautiful and functional."
-title: "Hey, I'm Emma Thompson UX/UI Designer"
+  title: "Timéo MORSILLI - UX/UI Designer"
+  description: "Welcome to my portfolio! I'm Timéo MORSILLI, a UX/UI designer and front-end developer based in Boston. I specialize in creating user-centered digital experiences that are both beautiful and functional."
+title: "Hey, I'm Timéo MORSILLI UX/UI Designer"
 description: "I craft intuitive digital experiences where design meets functionality. Based in Boston, bringing ideas to life through code and creativity."
 hero:
-  links:
-    - label: "Use this template"
-      to: https://github.com/nuxt-ui-templates/portfolio
-      color: "neutral"
   images:
     - src: /hero/random-1.avif
       alt: Random Image 1
@@ -33,7 +29,7 @@ about:
     As a UX/UI designer and front-end developer with 6 years of experience, I leverage my Boston University Interactive Design degree to craft user-centered digital experiences.
     My approach blends creative strategy with technical expertise, transforming concepts into functional, purposeful digital products that seamlessly integrate design and technology.
 experience:
-  title: Work Experience
+  title: Mon parcours
   items:
     - position: "Brand Designer at"
       date: "2023 - Present"
