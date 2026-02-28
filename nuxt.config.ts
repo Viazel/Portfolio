@@ -7,8 +7,14 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@vueuse/nuxt',
     'nuxt-og-image',
-    'motion-v/nuxt'
+    'motion-v/nuxt',
+    '@nuxtjs/sitemap'
   ],
+
+  site: {
+    url: 'https://timeoms.fr',
+    name: 'Timeo Morsilli Portfolio'
+  },
 
   devtools: {
     enabled: true
