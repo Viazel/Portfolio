@@ -1,11 +1,11 @@
 export default defineAppConfig({
   global: {
     picture: {
-      dark: 'https://avatars.githubusercontent.com/u/97253267?v=4',
-      light: 'https://avatars.githubusercontent.com/u/97253267?v=4',
+      dark: '/index/profilepicture.jpg',
+      light: '/index/profilepicture.jpg',
       alt: 'My profile picture'
     },
-    meetingLink: 'https://cal.com/',
+    meetingLink: '#',
     email: 'timeo.morsilli@gmail.com',
     available: true
   },
