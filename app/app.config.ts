@@ -29,12 +29,12 @@ export default defineAppConfig({
       'icon': 'i-simple-icons-x',
       'to': 'https://x.com/TMorsilli',
       'target': '_blank',
-      'aria-label': 'Nuxt on X'
+      'aria-label': 'Timeo MORSILLI on X'
     }, {
       'icon': 'i-simple-icons-github',
       'to': 'https://github.com/Viazel',
       'target': '_blank',
-      'aria-label': 'Nuxt UI on GitHub'
+      'aria-label': 'Timeo MORSILLI on GitHub'
     }]
   }
 })
