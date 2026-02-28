@@ -95,7 +95,7 @@ useSeoMeta({
               />
             </ULink>
           </template>
-          <NuxtImg 
+          <NuxtImg
             quality="80"
             format="webp"
             :src="project.image"

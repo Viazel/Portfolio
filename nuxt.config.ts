@@ -11,20 +11,16 @@ export default defineNuxtConfig({
     '@nuxtjs/sitemap'
   ],
 
-  site: {
-    url: 'https://timeoms.fr',
-    name: 'Timeo Morsilli Portfolio'
-  },
-
-  sitemap: {
-    strictNuxtContentPaths: true
-  },
-
   devtools: {
     enabled: true
   },
 
   css: ['~/assets/css/main.css'],
+
+  site: {
+    url: 'https://timeoms.fr',
+    name: 'Timeo Morsilli Portfolio'
+  },
 
   compatibilityDate: '2024-11-01',
 
@@ -44,5 +40,9 @@ export default defineNuxtConfig({
         braceStyle: '1tbs'
       }
     }
+  },
+
+  sitemap: {
+    strictNuxtContentPaths: true
   }
 })

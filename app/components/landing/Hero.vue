@@ -33,7 +33,7 @@ defineProps<{
           delay: 0.1
         }"
       >
-        <NuxtImg 
+        <NuxtImg
           class="size-18 ring ring-default rounded-full ring-offset-3 ring-offset-bg"
           quality="50"
           format="webp"

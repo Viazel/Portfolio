@@ -33,7 +33,7 @@ useSeoMeta({
         links: 'justify-start'
       }"
     >
-      <NuxtImg 
+      <NuxtImg
         class="sm:rotate-4 size-36 rounded-lg ring ring-default ring-offset-3 ring-offset-bg"
         quality="50"
         format="webp"
