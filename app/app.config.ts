@@ -6,7 +6,7 @@ export default defineAppConfig({
       alt: 'My profile picture'
     },
     meetingLink: 'https://cal.com/',
-    email: 'ui-pro@nuxt.com',
+    email: 'timeo.morsilli@gmail.com',
     available: true
   },
   ui: {
@@ -23,18 +23,18 @@ export default defineAppConfig({
     }
   },
   footer: {
-    credits: `Built with Nuxt UI • © ${new Date().getFullYear()}`,
+    credits: `Viazel • © ${new Date().getFullYear()}`,
     colorMode: false,
     links: [{
       'icon': 'i-simple-icons-x',
       'to': 'https://x.com/TMorsilli',
       'target': '_blank',
-      'aria-label': 'Nuxt on X'
+      'aria-label': 'Timeo MORSILLI on X'
     }, {
       'icon': 'i-simple-icons-github',
       'to': 'https://github.com/Viazel',
       'target': '_blank',
-      'aria-label': 'Nuxt UI on GitHub'
+      'aria-label': 'Timeo MORSILLI on GitHub'
     }]
   }
 })
