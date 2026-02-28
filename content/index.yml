@@ -1,94 +1,94 @@
 seo:
-  title: "Timeo MORSILLI - UX/UI Designer"
-  description: "Welcome to my portfolio! I'm Timeo MORSILLI, a UX/UI designer and front-end developer based in Boston. I specialize in creating user-centered digital experiences that are both beautiful and functional."
-title: "Timeo Morsilli, Full Stack Developpeur"
-description: "I craft intuitive digital experiences where design meets functionality. Based in Boston, bringing ideas to life through code and creativity."
+  title: "Timeo MORSILLI - Développeur Logiciel & Bas Niveau"
+  description: "Bienvenue sur mon portfolio ! Je suis Timeo MORSILLI, développeur logiciel basé à Aix-en-Provence. Je crée des architectures performantes, avec une forte passion pour le code bas niveau et l'optimisation."
+title: "Timeo Morsilli, Développeur Back-End & Système"
+description: "Je conçois des programmes où la performance rencontre la logique. Basé à Aix-en-Provence, j'aime donner vie à des systèmes complexes au plus proche de la machine."
 hero:
   images:
     - src: /hero/random-1.avif
-      alt: Random Image 1
+      alt: Image aléatoire 1
     - src: /hero/random-2.avif
-      alt: Random Image 2
+      alt: Image aléatoire 2
     - src: /hero/random-3.avif
-      alt: Random Image 3
+      alt: Image aléatoire 3
     - src: /hero/random-4.avif
-      alt: Random Image 4
+      alt: Image aléatoire 4
     - src: /hero/random-5.avif
-      alt: Random Image 5
+      alt: Image aléatoire 5
     - src: /hero/random-6.avif
-      alt: Random Image 6
+      alt: Image aléatoire 6
     - src: /hero/random-7.avif
-      alt: Random Image 7
+      alt: Image aléatoire 7
     - src: /hero/random-8.avif
-      alt: Random Image 8
+      alt: Image aléatoire 8
     - src: /hero/random-9.avif
-      alt: Random Image 9
+      alt: Image aléatoire 9
 about:
-  title: "About Me"
+  title: "À propos"
   description: |
-    As a UX/UI designer and front-end developer with 6 years of experience, I leverage my Boston University Interactive Design degree to craft user-centered digital experiences.
-    My approach blends creative strategy with technical expertise, transforming concepts into functional, purposeful digital products that seamlessly integrate design and technology.
+    Étudiant en première année de BUT Informatique à Aix-en-Provence, je me passionne pour le développement logiciel et les systèmes bas niveau. Autodidacte depuis l'âge de 11 ans, j'ai commencé par créer des plugins Minecraft en Java !
+    Aujourd'hui, mon approche se concentre sur l'aspect purement technique et machine. Je maîtrise une large palette de langages (C, C++, Rust, Java, mais aussi TS ou Spring Boot) pour construire des architectures robustes et parfaitement optimisées.
 experience:
   title: Mon parcours
   items:
-    - position: "Brand Designer at"
-      date: "2023 - Present"
+    - position: "Étudiant "
+      date: "2025 - Présent"
       company:
-        name: Nuxt
-        logo: "i-simple-icons-nuxtdotjs"
-        url: "https://nuxt.com"
+        name: BUT Informatique
+        logo: "devicon-plain:vscode"
+        url: "https://iut.univ-amu.fr/fr/formations/bachelor-universitaire-de-technologie/but-informatique/but-info-aix"
         color: "#00DC82"
-    - position: "Assets Designer at"
-      date: "2022 - 2023"
+    - position: "Baccalauréat Mention Bien au"
+      date: "2024 - 2025"
       company:
-        name: Raycast
-        logo: "i-simple-icons-raycast"
-        url: "https://raycast.com"
+        name: Lycée
+        logo: "fa6-solid:school"
+        url: "https://www.site.ac-aix-marseille.fr/lyc-gillesdegennes/spip/"
         color: "#FF6363"
-    - position: "Senior UX/UI Designer at"
-      date: "2020 - 2021"
+    - position: "Développeur "
+      date: "2016 - Présent"
       company:
-        name: Linear
-        logo: "i-simple-icons-linear"
-        url: "https://linear.app"
+        name: Autodidacte
+        logo: "i-simple-icons-github"
+        url: "https://github.com/Viazel"
         color: "#5E6AD2"
 blog:
-  title: "Latest Articles"
-  description: "Some of my recent thoughts"
+  title: "Derniers Projets"
+  description: "Quelques-unes de mes expérimentations"
 faq:
-  title: Frequently Asked Questions
-  description: Answers to common questions about my process and services.
+  title: Foire Aux Questions (FAQ)
+  description: Réponses aux questions courantes sur mes compétences et ma façon de travailler.
   categories:
-    - title: Services & Process
+    - title: Compétences & Processus
       questions:
-        - label: What services do you offer?
+        - label: Quelles sont tes spécialités ?
           content: |
-            I specialize in UX/UI design and front-end development. This includes user research, wireframing, interactive prototyping, creating intuitive user interfaces, building responsive websites and web applications (especially with Vue.js/Nuxt.js), and developing design systems. My goal is to create seamless digital experiences from concept to deployment.
-        - label: What is your design process like?
+            Je suis spécialisé en développement logiciel et programmation système. Bien que je sache coder en HTML, CSS, JS, React ou Vuejs, ma véritable passion se trouve côté machine. J'aime utiliser le C, C++, Rust, Java ou Spring Boot pour créer des back-ends solides, optimiser les performances et concevoir des architectures complexes bien loin du web pur et dur.
+        - label: Comment as-tu appris à coder ?
           content: |
-            My process is collaborative and iterative, typically involving stages like Discovery & Research, Ideation & Prototyping, User Testing, Visual Design, and close collaboration with development teams during implementation. I tailor the process based on project needs, always focusing on user-centered solutions.
-        - label: Do you work with startups?
+            Je suis passionné par l'informatique depuis tout petit. J'ai commencé à me former en autodidacte à l'âge de 11 ans, en développant des plugins Minecraft en Java. Cette curiosité ne m'a jamais quitté, et c'est ce qui m'a poussé à explorer de nombreux langages et à intégrer mon BUT Informatique actuel pour consolider mes bases techniques.
+        - label: Quel est ton environnement de prédilection ?
           content: |
-            Absolutely! I enjoy working with startups to help shape their product vision and create user-friendly interfaces from the ground up. I can adapt my process to fit the fast-paced startup environment.
-    - title: Pricing & Timelines
+            Absolument tout ce qui touche à la logique pure et aux langages bas niveau ! J'aime comprendre comment la mémoire est gérée, comment les processus communiquent et comment tirer le meilleur parti des ressources matérielles. C'est dans ce genre d'environnement technique que je suis le plus efficace.
+    - title: Disponibilités & Projets
       questions:
-        - label: How much does a project typically cost?
+        - label: Cherches-tu des stages ou des missions ?
           content: |
-            Project costs vary based on scope, complexity, features, and timeline. For comprehensive UX/UI design and front-end development projects, my engagements typically start around $5,000, with average projects ranging between $8,000 and $25,000. For consulting or specific design tasks, my day rate is $700.
-        - label: What are your payment terms?
+            Étant actuellement en première année de BUT Informatique, je suis très ouvert aux opportunités de stages ou de projets qui me permettraient de mettre en pratique mes compétences en développement logiciel (C, C++, Rust, Java). Les missions axées sur le back-end et l'optimisation m'intéressent tout particulièrement.
+        - label: Comment factures-tu tes services freelance ?
           content: |
-            I generally require a 40% deposit to schedule the project and begin work, with the remaining 60% due upon successful project completion and delivery. I accept payments via bank transfer and Stripe.
-        - label: How long does a typical project take?
+            Si je prends des missions en parallèle de mes études, mes tarifs varient selon la complexité technique du projet. Pour des missions de développement back-end, d'outillage ou d'optimisation d'algorithmes, nous pouvons en discuter ensemble pour établir un devis juste, adapté à l'ampleur de la tâche et à mon statut d'étudiant.
+        - label: Combien de temps prend un projet avec toi ?
           content: |
-            Timelines depend heavily on the project's scope and complexity. Smaller projects might take 3-4 weeks, while larger, more involved projects can range from 2 to 4 months. I always provide a detailed timeline estimate after the initial discovery phase.
-        - label: Do you offer retainers or ongoing support?
+            Les délais dépendent fortement de la complexité de l'architecture à mettre en place et de mon emploi du temps étudiant. Un petit outil en ligne de commande peut prendre quelques semaines, tandis qu'un back-end complet demandera plusieurs mois. Je fournis toujours une estimation claire avant de commencer.
+        - label: Fais-tu aussi de la création d'interface (UI) ?
           content: |
-            Yes, for clients needing ongoing design support, feature development, or maintenance, I offer monthly retainer options tailored to specific needs. Let's discuss if this is something you're interested in.
-    - title: About Me
+            Je maîtrise les technologies front-end (React, Vue, HTML/CSS), mais ce n'est vraiment pas ce que je préfère. Je suis beaucoup plus épanoui et efficace lorsqu'il s'agit de travailler sur l'architecture de l'application, les bases de données, l'algorithmique et le côté purement "machine".
+    - title: À propos de moi
       questions:
-        - label: What do you enjoy most about your work?
+        - label: Qu'est-ce qui te plaît le plus dans le développement ?
           content: |
-            I love the challenge of solving complex problems through design and technology. It's incredibly rewarding to see people interact with something I've created and find it genuinely useful and easy to navigate. Bridging the gap between user needs and technical possibilities is what truly excites me.
-        - label: What are your hobbies outside of work?
+            J'adore le défi intellectuel que représente la résolution de problèmes complexes. Ce qui m'excite, c'est de comprendre ce qui se passe sous le capot, d'écrire un code propre, performant et optimisé. Comprendre comment la machine interprète chaque instruction est fascinant.
+        - label: Que fais-tu en dehors de l'informatique ?
           content: |
-            When I'm not designing or coding, I enjoy exploring Boston's neighborhoods, trying out new coffee shops, and hiking in the nearby reservations. I'm also passionate about photography and occasionally contribute to open-source projects.
+            Quand je ne suis pas plongé dans mon code ou mes cours à l'IUT, j'aime profiter de la région d'Aix-en-Provence pour me ressourcer. J'apprécie les balades, découvrir de nouveaux endroits et continuer à m'informer sur les dernières avancées technologiques ou matérielles.

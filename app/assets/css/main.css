@@ -9,7 +9,7 @@
 }
 
 :root {
-  --ui-container: var(--container-4xl);
+  --ui-container: var(--container-7xl);
 
   ::selection {
     color: #282a30;

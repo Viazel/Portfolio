@@ -16,6 +16,10 @@ export default defineNuxtConfig({
     name: 'Timeo Morsilli Portfolio'
   },
 
+  sitemap: {
+    strictNuxtContentPaths: true
+  },
+
   devtools: {
     enabled: true
   },
