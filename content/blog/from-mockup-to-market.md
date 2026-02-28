@@ -159,4 +159,4 @@ Effective product design is never a linear journey—it's a continuous cycle of 
 
 I'd love to hear about your own design process and how you approach similar challenges. Feel free to reach out with questions or share your experiences in the comments below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKkFzGMfWA8?si=idW2AbDqWm3dHhkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/cKkFzGMfWA8?si=idW2AbDqWm3dHhkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
