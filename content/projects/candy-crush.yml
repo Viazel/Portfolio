@@ -1,0 +1,6 @@
+title: "Clone de Candy Crush en C++"
+description: "Développement complet de la logique d'un jeu de type Candy Crush en C++. Ce projet académique se concentre sur l'algorithmique pure : manipulation de matrices complexes, détection de motifs, gestion de la boucle de jeu et optimisation des mécaniques internes."
+image: "/projects/candy-crush.png" # Image d'illustration axée code/matrice
+url: "https://github.com/MORSILLI-Timeo-25002755/S1.01"
+tags: ["C++", "Algorithmique", "Logique de jeu", "Matrices"]
+date: "2025"

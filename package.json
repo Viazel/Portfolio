@@ -1,0 +1,35 @@
+{
+  "name": "Viazel",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "typecheck": "nuxt typecheck"
+  },
+  "dependencies": {
+    "@iconify-json/lucide": "^1.2.109",
+    "@iconify-json/simple-icons": "^1.2.84",
+    "@nuxt/content": "^3.14.0",
+    "@nuxt/image": "^2.0.0",
+    "@nuxt/ui": "^4.8.0",
+    "@nuxtjs/sitemap": "^7.6.0",
+    "@vueuse/nuxt": "^14.3.0",
+    "better-sqlite3": "^12.10.0",
+    "motion-v": "^1.10.3",
+    "nuxt": "^4.4.6",
+    "nuxt-og-image": "^5.1.13",
+    "tailwindcss": "^4.3.0"
+  },
+  "devDependencies": {
+    "@nuxt/eslint": "^1.15.2",
+    "eslint": "^10.4.0",
+    "typescript": "^5.9.3",
+    "vue-tsc": "^3.3.2"
+  },
+  "packageManager": "pnpm@11.4.0"
+}

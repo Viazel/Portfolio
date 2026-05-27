@@ -1,0 +1,22 @@
+title: À propos de moi
+description: Découvrez mon parcours d'étudiant et développeur back-end basé à Aix-en-Provence, ma philosophie de code et ma passion pour l'architecture logicielle et la sécurité.
+content: |
+  Bonjour, je suis **Timéo Morsilli**, un développeur passionné par le back-end et la programmation système, basé à Aix-en-Provence. Depuis mon plus jeune âge, je suis plongé dans le monde de la programmation, avec pour objectif de concevoir des architectures robustes, sécurisées et performantes.
+
+  Mon parcours a commencé de manière autodidacte à l'âge de 11 ans, en apprenant Java et en créant mes propres applications avec JavaFX. Aujourd'hui, je suis en première année de **BUT Informatique**. C'est dans ce cadre que je consolide mes bases techniques et que je me prépare pour ma deuxième année, que je souhaite réaliser en alternance pour mettre mes compétences au service de projets concrets.
+
+  ### Ma philosophie de développement
+
+  Ma démarche technique repose sur la **logique**, l'**optimisation** et la **sécurité**. Je crois qu'un bon programme commence par une architecture solide et une compréhension profonde de ce qui se passe sous le capot. 
+  
+  Qu'il s'agisse de concevoir des APIs en JavaScript/TypeScript, de manipuler des bases de données Oracle en SQL, ou de construire des systèmes avec Java Spring Boot, mon objectif est de produire un code propre et efficace. J'accorde une importance majeure à la sécurité numérique, comme en témoigne l'un de mes projets récents : la réalisation d'un système d'authentification sécurisée basé sur le protocole SRP.
+
+  ### Ce qui me motive
+
+  Ce qui me passionne dans ce domaine, c'est le défi intellectuel constant. J'aime résoudre des problèmes complexes, comprendre le comportement de la machine à travers des langages comme le C, le C++ ou le C#, et voir un système back-end interagir parfaitement avec son environnement. Évoluer dans un contexte exigeant et structuré est mon principal moteur d'apprentissage.
+
+  ### En dehors des écrans
+
+  Quand je ne suis pas en train d'écrire du code ou d'étudier à l'IUT, j'aime profiter de la région aixoise pour me ressourcer lors de balades. Je consacre également beaucoup de temps à ma veille technologique pour rester à l'affût des dernières avancées logicielles.
+
+  Merci de votre visite. N'hésitez pas à découvrir [mes projets](/projects) ou à **me contacter** si vous souhaitez échanger, tout particulièrement dans le cadre d'**une opportunité d'alternance** !

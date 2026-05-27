@@ -1,0 +1,94 @@
+seo:
+  title: "Timeo MORSILLI - Développeur Logiciel & Bas Niveau"
+  description: "Bienvenue sur mon portfolio ! Je suis Timeo MORSILLI, développeur logiciel basé à Aix-en-Provence. Je crée des architectures performantes, avec une forte passion pour le code bas niveau et l'optimisation."
+title: "Timeo Morsilli, Développeur Back-End & Système"
+description: "Je conçois des programmes où la performance rencontre la logique. Basé à Aix-en-Provence, j'aime donner vie à des systèmes complexes au plus proche de la machine."
+hero:
+  images:
+    - src: /hero/random-1.avif
+      alt: Image aléatoire 1
+    - src: /hero/random-2.avif
+      alt: Image aléatoire 2
+    - src: /hero/random-3.avif
+      alt: Image aléatoire 3
+    - src: /hero/random-4.avif
+      alt: Image aléatoire 4
+    - src: /hero/random-5.avif
+      alt: Image aléatoire 5
+    - src: /hero/random-6.avif
+      alt: Image aléatoire 6
+    - src: /hero/random-7.avif
+      alt: Image aléatoire 7
+    - src: /hero/random-8.avif
+      alt: Image aléatoire 8
+    - src: /hero/random-9.avif
+      alt: Image aléatoire 9
+about:
+  title: "À propos"
+  description: |
+    Étudiant en première année de BUT Informatique à Aix-en-Provence, je me passionne pour le développement logiciel et les systèmes bas niveau. Autodidacte depuis l'âge de 11 ans, j'ai commencé par créer des plugins Minecraft en Java !
+    Aujourd'hui, mon approche se concentre sur l'aspect purement technique et machine. Je maîtrise une large palette de langages (C, C++, Rust, Java, mais aussi TS ou Spring Boot) pour construire des architectures robustes et parfaitement optimisées.
+experience:
+  title: Mon parcours
+  items:
+    - position: "Étudiant "
+      date: "2025 - Présent"
+      company:
+        name: BUT Informatique
+        logo: "devicon-plain:vscode"
+        url: "https://iut.univ-amu.fr/fr/formations/bachelor-universitaire-de-technologie/but-informatique/but-info-aix"
+        color: "#00DC82"
+    - position: "Baccalauréat Mention Bien au"
+      date: "2023 - 2025"
+      company:
+        name: Lycée
+        logo: "fa6-solid:school"
+        url: "https://www.site.ac-aix-marseille.fr/lyc-gillesdegennes/spip/"
+        color: "#FF6363"
+    - position: "Développeur "
+      date: "2016 - Présent"
+      company:
+        name: Autodidacte
+        logo: "i-simple-icons-github"
+        url: "https://github.com/Viazel"
+        color: "#5E6AD2"
+blog:
+  title: "Derniers Articles"
+  description: "Quelques-unes de mes réflexions"
+faq:
+  title: Foire Aux Questions (FAQ)
+  description: Réponses aux questions courantes sur mes compétences et ma façon de travailler.
+  categories:
+    - title: Compétences & Processus
+      questions:
+        - label: Quelles sont tes spécialités ?
+          content: |
+            Je suis spécialisé en développement logiciel et programmation système. Bien que je sache coder en HTML, CSS, JS, React ou Vuejs, ma véritable passion se trouve côté machine. J'aime utiliser le C, C++, Rust, Java ou Spring Boot pour créer des back-ends solides, optimiser les performances et concevoir des architectures complexes bien loin du web pur et dur.
+        - label: Comment as-tu appris à coder ?
+          content: |
+            Je suis passionné par l'informatique depuis tout petit. J'ai commencé à me former en autodidacte à l'âge de 11 ans, en développant des plugins Minecraft en Java. Cette curiosité ne m'a jamais quitté, et c'est ce qui m'a poussé à explorer de nombreux langages et à intégrer mon BUT Informatique actuel pour consolider mes bases techniques.
+        - label: Quel est ton environnement de prédilection ?
+          content: |
+            Absolument tout ce qui touche à la logique pure et aux langages bas niveau ! J'aime comprendre comment la mémoire est gérée, comment les processus communiquent et comment tirer le meilleur parti des ressources matérielles. C'est dans ce genre d'environnement technique que je suis le plus efficace.
+    - title: Disponibilités & Projets
+      questions:
+        - label: Cherches-tu des stages ou des missions ?
+          content: |
+            Étant actuellement en première année de BUT Informatique, je suis très ouvert aux opportunités de stages ou de projets qui me permettraient de mettre en pratique mes compétences en développement logiciel (C, C++, Rust, Java). Les missions axées sur le back-end et l'optimisation m'intéressent tout particulièrement.
+        - label: Comment factures-tu tes services freelance ?
+          content: |
+            Si je prends des missions en parallèle de mes études, mes tarifs varient selon la complexité technique du projet. Pour des missions de développement back-end, d'outillage ou d'optimisation d'algorithmes, nous pouvons en discuter ensemble pour établir un devis juste, adapté à l'ampleur de la tâche et à mon statut d'étudiant.
+        - label: Combien de temps prend un projet avec toi ?
+          content: |
+            Les délais dépendent fortement de la complexité de l'architecture à mettre en place et de mon emploi du temps étudiant. Un petit outil en ligne de commande peut prendre quelques semaines, tandis qu'un back-end complet demandera plusieurs mois. Je fournis toujours une estimation claire avant de commencer.
+        - label: Fais-tu aussi de la création d'interface (UI) ?
+          content: |
+            Je maîtrise les technologies front-end (React, Vue, HTML/CSS), mais ce n'est vraiment pas ce que je préfère. Je suis beaucoup plus épanoui et efficace lorsqu'il s'agit de travailler sur l'architecture de l'application, les bases de données, l'algorithmique et le côté purement "machine".
+    - title: À propos de moi
+      questions:
+        - label: Qu'est-ce qui te plaît le plus dans le développement ?
+          content: |
+            J'adore le défi intellectuel que représente la résolution de problèmes complexes. Ce qui m'excite, c'est de comprendre ce qui se passe sous le capot, d'écrire un code propre, performant et optimisé. Comprendre comment la machine interprète chaque instruction est fascinant.
+        - label: Que fais-tu en dehors de l'informatique ?
+          content: |
+            Quand je ne suis pas plongé dans mon code ou mes cours à l'IUT, j'aime profiter de la région d'Aix-en-Provence pour me ressourcer. J'apprécie les balades, découvrir de nouveaux endroits et continuer à m'informer sur les dernières avancées technologiques ou matérielles.
