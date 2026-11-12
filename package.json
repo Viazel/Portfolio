@@ -31,11 +31,5 @@
     "typescript": "^5.9.3",
     "vue-tsc": "^3.3.14"
   },
-  "packageManager": "pnpm@11.4.0",
-  "overrides": {
-    "deepmerge": "4.1.2",
-    "glob": "14.0.6",
-    "minimatch": "11.0.8",
-    "zod": "4.6.7"
-  }
+  "packageManager": "pnpm@11.4.0"
 }
