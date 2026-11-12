@@ -81,7 +81,6 @@ export default defineNuxtConfig({
   },
 
   sitemap: {
-    strictNuxtContentPaths: true,
     xsl: false,
     discoverImages: false
   }
