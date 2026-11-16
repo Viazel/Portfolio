@@ -13,7 +13,7 @@ author:
 
 Créer un projet en C ou en C++ commence souvent par une série de décisions répétitives : quelle version du langage choisir, comment organiser les sources, où placer les fichiers de compilation, comment configurer CMake et comment ne pas écraser un fichier existant ?
 
-Avec **[Clyx](https://github.com/Viazel/Clyx)**, j'ai voulu réunir ces étapes dans un outil simple, rapide et prévisible. Clyx est une CLI multiplateforme écrite en Rust qui crée et gère des projets C et C++ modernes construits avec CMake.
+Avec **[Clyx](https://clyx.timeoms.fr)**, j'ai voulu réunir ces étapes dans un outil simple, rapide et prévisible. Clyx est une CLI multiplateforme écrite en Rust qui crée et gère des projets C et C++ modernes construits avec CMake.
 
 ## Un squelette propre dès la première commande
 
@@ -110,4 +110,4 @@ Clyx ne cherche pas à masquer l'écosystème CMake ni à imposer une architectu
 
 En combinant la robustesse de Rust, la portabilité de CMake et des modèles adaptés aux usages courants, Clyx propose un point de départ fiable pour expérimenter, apprendre ou démarrer un véritable projet C/C++.
 
-Le code source, les commandes disponibles et les instructions de contribution sont disponibles sur **[github.com/Viazel/Clyx](https://github.com/Viazel/Clyx)** et **[crates.io/crates/clyx](https://crates.io/crates/clyx)**.
+Le code source, les commandes disponibles et les instructions de contribution sont disponibles sur **[clyx.timeoms.fr](https://clyx.timeoms.fr)** et **[crates.io/crates/clyx](https://crates.io/crates/clyx)**.
